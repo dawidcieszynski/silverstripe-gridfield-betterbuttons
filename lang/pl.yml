@@ -1,0 +1,31 @@
+en:
+  CMSMain:
+    ROLLEDBACKPUBv2: 'Rolled back to published version.'
+    SAVEDRAFT: 'Zapisz szkic'
+  GridFieldBetterButtons:
+    AREYOUSURE: 'Tak. Usuń rekord.'
+    CANCEL: Anuluj
+    NEWRECORD: 'Nowy rekord'
+    NEXT: Następny
+    NEXTRECORD: 'Idź do następnego rekordu'
+    PREVIOUS: Poprzedni
+    PREVIOUSRECORD: 'Idź do poprzedniego rekordu'
+    SAVEANDADDNEW: 'Zapisz i dodaj nowy'
+    VIEWONDRAFTSITE: 'Draft site'
+    VIEWONLIVESITE: 'Live site'
+  GridFieldDetailForm:
+    CANCELDELETE: 'No. Don''t delete.'
+    Delete: Delete
+    PUBLISHANDADD: 'Publish and add new'
+    PUBLISHANDQUITE: 'Publish and close'
+    SAVE: Zapisz
+    SAVEANDCLOSE: 'Zapisz i zamknij'
+    SAVEANDNEXT: 'Zapisz i idź do następnego rekordu'
+    SAVEANDPREV: 'Zapisz i idź do poprzedniego rekordu'
+  SiteTree:
+    BUTTONCANCELDRAFT: 'Cancel draft changes'
+    BUTTONCANCELDRAFTDESC: 'Delete your draft and revert to the currently published page'
+    BUTTONPUBLISHED: Published
+    BUTTONSAVED: Zapisano
+    BUTTONSAVEPUBLISH: 'Save & publish'
+    BUTTONUNPUBLISH: Unpublish
